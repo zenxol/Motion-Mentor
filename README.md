@@ -4,6 +4,6 @@ Modules Required for use:
 OpenCV
 MediaPipe
 Custontkinker
-* and obviously python and PIP
 
 Only one file to run the program: main.py
+🎥 [Watch the demo video on Google Drive](https://drive.google.com/file/d/1sO-jwFmEo38GzNxynyhOvWcOzcwFyNAn/view)
